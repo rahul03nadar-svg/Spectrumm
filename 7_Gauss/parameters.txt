@@ -1,0 +1,7 @@
+Gaussian Peak Fitting Results
+--------------------------------
+Amplitude: 3414.064425
+Centroid: 290207.365696
+StdDev: 4692.547374
+FWHM: 11050.949066
+R2: 0.635681
